@@ -1,0 +1,21 @@
+---
+title: "hiv"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(bio3d) 
+file.name <- get.pdb("1hsg")
+
+```
+
+
+## Including Code
+
+
+```{r cars}
+```
+
+
